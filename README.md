@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hey, I'm Rick! <br/><a href="https://github.com/RMiranda323">Programmer</a> and <a href="https://www.linkedin.com/in/rimranda-cs/">Cybersecurity Beginner</a></h1>
 
-<!--
-**RMiranda323/RMiranda323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>CSULA Senior Design (HTML, CSS, Bootstrap, Javascript, ROS) </b>
+  - [LA BoE SAS Web App](https://github.com/RMiranda323/BOE_Sidewalk_UI)
+- <b>Portfolio Website (HTML, CSS, Javascript, AWS)</b>
+  - [Website Code](https://github.com/RMiranda323/PortfolioWebsite)
+- <b>To Do List:</b>
+   - Active Directory
+   - SIEM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications</h2>
+
+- [Google Cyber Security Certification](https://coursera.org/share/34b9d40466d105e9ef67909f06faaf3d)
+
+
