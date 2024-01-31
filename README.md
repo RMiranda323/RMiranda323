@@ -6,8 +6,10 @@
   - [LA BoE SAS Web App](https://github.com/RMiranda323/BOE_Sidewalk_UI)
 - <b>Portfolio Website (HTML, CSS, Javascript, AWS)</b>
   - [Website Code](https://github.com/RMiranda323/PortfolioWebsite)
+- <b>Active Directory Lab</b>
+  - [Lab Report](
+
 - <b>To Do List:</b>
-   - Active Directory
    - SIEM
 
 <h2>Certifications</h2>
