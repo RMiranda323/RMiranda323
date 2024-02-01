@@ -6,7 +6,7 @@
   - [LA BoE SAS Web App](https://github.com/RMiranda323/BOE_Sidewalk_UI)
 - <b>Portfolio Website (HTML, CSS, Javascript, AWS)</b>
   - [Website Code](https://github.com/RMiranda323/PortfolioWebsite)
-- <b>Active Directory Homelab (Active Directory, Domain Controller, Azure, DHCP, Virtual Machine) </b>
+- <b>Active Directory Homelab (Active Directory, Domain Controller, DHCP, Virtual Machine) </b>
   - [Lab Setup](https://github.com/RMiranda323/active-directory-lab)
 - <b>ACM Advanced Team Lead Projects (Game Dev)
   - [Bloons Tower Defense Recreation](https://github.com/Jazamora29/ACM-BTD-Final-Workshop-Code) (C#, Scriptable Objects, Prefabs)
