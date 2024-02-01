@@ -7,7 +7,7 @@
 - <b>Portfolio Website (HTML, CSS, Javascript, AWS)</b>
   - [Website Code](https://github.com/RMiranda323/PortfolioWebsite)
 - <b>Active Directory Homelab (Active Directory, Domain Controller, Azure, DHCP, Virtual Machine) </b>
-  - [Lab Report](https://github.com/RMiranda323/active-directory-lab)
+  - [Lab Setup](https://github.com/RMiranda323/active-directory-lab)
 
 - <b>To Do List:</b>
    - SIEM
