@@ -1,4 +1,4 @@
-<h1>Hey, I'm Rick! <br/><a href="https://github.com/RMiranda323">Programmer</a> and <a href="www.linkedin.com/in/ricardo-miranda-cs">Cybersecurity Beginner</a></h1>
+<h1>Hey, I'm Rick! <br/><a href="https://github.com/RMiranda323">Programmer</a> and <a href="https://www.linkedin.com/in/ricardo-miranda-cs">Cybersecurity Beginner</a></h1>
 
 <h2>Projects:</h2>
 
